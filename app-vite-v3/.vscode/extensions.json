@@ -1,6 +1,5 @@
 {
   "recommendations": [
-    "oxc.oxc-vscode",
     "editorconfig.editorconfig",
     "vue.volar",
     "wayou.vscode-todo-highlight"

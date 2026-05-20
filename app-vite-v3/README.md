@@ -13,20 +13,6 @@ pnpm install
 quasar dev
 ```
 
-### Format & Lint the files
-
-```bash
-pnpm run lint
-# or: yarn/npm/bun run lint
-```
-
-...or just check formatting & linting:
-
-```bash
-pnpm run lint:check
-# or: yarn/npm/bun run lint:check
-```
-
 ### Build the app for production
 
 ```bash

@@ -60,15 +60,15 @@ export default defineConfig((/* ctx */) => {
          * Needed for Stackblitz to work
          */
 
-        viteConf.css.preprocessorOptions.sass.api = 'legacy';
+        viteConf.css.preprocessorOptions.sass.api = 'legacy'
         viteConf.css.preprocessorOptions.sass.silenceDeprecations.push(
-          'legacy-js-api',
-        );
+          'legacy-js-api'
+        )
 
-        viteConf.css.preprocessorOptions.scss.api = 'legacy';
+        viteConf.css.preprocessorOptions.scss.api = 'legacy'
         viteConf.css.preprocessorOptions.scss.silenceDeprecations.push(
-          'legacy-js-api',
-        );
+          'legacy-js-api'
+        )
       },
 
       // viteVuePluginOptions: {},

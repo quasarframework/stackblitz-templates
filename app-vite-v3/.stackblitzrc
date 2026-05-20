@@ -1,4 +1,4 @@
 {
   "installDependencies": false,
-  "startCommand": "corepack enable pnpm && pnpm install && pnpm dev"
+  "startCommand": "yarn install && yarn dev"
 }
