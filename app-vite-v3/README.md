@@ -9,13 +9,13 @@ yarn install
 ### Start the app in development mode (HMR, error reporting, etc.)
 
 ```bash
-quasar dev
+yarn run dev
 ```
 
 ### Build the app for production
 
 ```bash
-quasar build
+yarn run build
 ```
 
 ### Customize the configuration
