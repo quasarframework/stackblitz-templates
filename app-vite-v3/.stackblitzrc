@@ -1,3 +1,4 @@
 {
-  "startCommand": "pnpm dev"
+  "installDependencies": false,
+  "startCommand": "corepack enable pnpm && pnpm install && pnpm dev"
 }
