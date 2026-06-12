@@ -30,8 +30,8 @@
     "vuejs"
   ],
   "engines": {
-    "node": ">= 26 || ^24 || ^22.12",
-    "yarn": ">= 1.21.1"
+    "node": ">= 26 || ^24 || ^22.22.3",
+    "yarn": ">= 1.22.19"
   },
   "resolutions": {
     "sass-embedded": "npm:sass@1.99.0"
